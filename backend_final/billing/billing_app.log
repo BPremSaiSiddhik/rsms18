@@ -1,0 +1,18 @@
+2025-03-17 15:01:29,506 - DEBUG - {"topologyId": {"$oid": "67d7ebf141824e3ebb43622e"}, "message": "Starting topology monitoring"}
+2025-03-17 15:01:29,507 - DEBUG - {"topologyId": {"$oid": "67d7ebf141824e3ebb43622e"}, "previousDescription": "<TopologyDescription id: 67d7ebf141824e3ebb43622e, topology_type: Unknown, servers: []>", "newDescription": "<TopologyDescription id: 67d7ebf141824e3ebb43622e, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None>]>", "message": "Topology description changed"}
+2025-03-17 15:01:29,508 - DEBUG - {"topologyId": {"$oid": "67d7ebf141824e3ebb43622e"}, "serverHost": "localhost", "serverPort": 27017, "message": "Starting server monitoring"}
+2025-03-17 15:01:29,509 - DEBUG - MAIL_USERNAME: None
+2025-03-17 15:01:29,509 - DEBUG - MAIL_PASSWORD: 
+2025-03-17 15:01:29,510 - ERROR - MAIL_USERNAME or MAIL_PASSWORD not set in .env
+2025-03-17 15:01:46,498 - DEBUG - {"topologyId": {"$oid": "67d7ec02321b21bdd0e8b33d"}, "message": "Starting topology monitoring"}
+2025-03-17 15:01:46,499 - DEBUG - {"topologyId": {"$oid": "67d7ec02321b21bdd0e8b33d"}, "previousDescription": "<TopologyDescription id: 67d7ec02321b21bdd0e8b33d, topology_type: Unknown, servers: []>", "newDescription": "<TopologyDescription id: 67d7ec02321b21bdd0e8b33d, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None>]>", "message": "Topology description changed"}
+2025-03-17 15:01:46,501 - DEBUG - {"topologyId": {"$oid": "67d7ec02321b21bdd0e8b33d"}, "serverHost": "localhost", "serverPort": 27017, "message": "Starting server monitoring"}
+2025-03-17 15:01:46,502 - DEBUG - MAIL_USERNAME: None
+2025-03-17 15:01:46,502 - DEBUG - MAIL_PASSWORD: 
+2025-03-17 15:01:46,503 - ERROR - MAIL_USERNAME or MAIL_PASSWORD not set in .env
+2025-03-17 15:06:49,341 - DEBUG - {"topologyId": {"$oid": "67d7ed318379b3f369a0fac9"}, "message": "Starting topology monitoring"}
+2025-03-17 15:06:49,342 - DEBUG - {"topologyId": {"$oid": "67d7ed318379b3f369a0fac9"}, "previousDescription": "<TopologyDescription id: 67d7ed318379b3f369a0fac9, topology_type: Unknown, servers: []>", "newDescription": "<TopologyDescription id: 67d7ed318379b3f369a0fac9, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None>]>", "message": "Topology description changed"}
+2025-03-17 15:06:49,345 - DEBUG - {"topologyId": {"$oid": "67d7ed318379b3f369a0fac9"}, "serverHost": "localhost", "serverPort": 27017, "message": "Starting server monitoring"}
+2025-03-17 15:06:49,346 - DEBUG - MAIL_USERNAME: None
+2025-03-17 15:06:49,347 - DEBUG - MAIL_PASSWORD: 
+2025-03-17 15:06:49,348 - ERROR - MAIL_USERNAME or MAIL_PASSWORD not set in .env
